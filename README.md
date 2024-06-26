@@ -8,9 +8,13 @@ Tool Used:
 -SQL
 
 Queries of the Project:
-part1:Data cleaning-
+Part1:
+Data cleaning-
 Q1.In a single query, perform such operations and generate a new table called clean_weekly_sale.
 Q2.Which week numbers are missing from the dataset?
+
+Part2:
+Exploratory Analysis-
 Q3.How many total transactions were there for each year in the dataset?
 Q4.What are the total sales for each region for each month?
 Q5.What is the total count of transactions for each platform?
