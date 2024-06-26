@@ -8,12 +8,10 @@ Project Description:
 -The goal of the project is to answer a set of questions about the venture sales and  performance which help mentain its growth and consistency by making better decisions.
 
 Tool Used:
--SQL
+SQL
 
 Queries of the Project:
-
 Part1:
-
 Data cleaning-
 
 Q1.In a single query, perform such operations and generate a new table called clean_weekly_sale.
@@ -21,7 +19,6 @@ Q1.In a single query, perform such operations and generate a new table called cl
 Q2.Which week numbers are missing from the dataset?
 
 Part2:
-
 Exploratory Analysis-
 
 Q3.How many total transactions were there for each year in the dataset?
