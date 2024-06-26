@@ -1,11 +1,11 @@
-# New Venture Sales Analyse
+# New Venture Sales Analysis
 Project Description:
 
 -This project uses SQL to analyze the dataset of an New Venture Sales.
 
 -The objective of the project is to gain valuable insights into the  Customer Segmentation, trends for different age group, customer interest and money spent by customer,Most used platform,region with highest sales,product etc.
 
--The goal of the project is to answer a set of questions about the venture sales and  performance which help mentain its growth and consistency by making better decisions.
+-The goal of the project is to answer a set of questions about the venture sales and  performance which help maintain its growth and consistency by making better decisions.
 
 Tool Used:
 SQL
